@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Silas
 
-<!--
-**elsberrysilas/elsberrysilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Lewis-Clark State College studying computer science and cybersecurity management. 
+I currently work in Technical Support at Airbridge Broadband.
 
-Here are some ideas to get you started:
+## About Me
+- Studying networking, computer science, and cybersecurity management
+- Interested in IT support, wireless 802.11, networking, network automation, and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Networking
+- Wireless Technology 
+- MikroTik
+- Ubiquiti
+- Troubleshooting
+- Python / C / C++
+
+## Currently Working On
+- Completing my computer science & cybersecurity management degrees
+- Studying for CompTIA Security+, Cisco CCNA, and CompTIA Linux+
+- Strengthening my programming skills
