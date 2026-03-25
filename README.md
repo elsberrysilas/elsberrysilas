@@ -14,6 +14,9 @@ I currently work in Technical Support at Airbridge Broadband.
 - Ubiquiti
 - Troubleshooting
 - Python / C / C++
+- CompTIA Network+
+- Certified Wireless Network Administrator (CWNA)
+- Citizens Broadband Radio Service (CBRS)
 
 ## Currently Working On
 - Completing my computer science & cybersecurity management degrees
